@@ -130,3 +130,25 @@ Yarrm80s - [@yarrm80s](https://github.com/yarrm80s)
 Dniel97 - [@Dniel97](https://github.com/Dniel97)
 
 Project Link: [OrpheusDL Qobuz Public GitHub Repository](https://github.com/yarrm80s/orpheusdl-qobuz)
+
+## I decided to delete this fork. 👍
+ 
+ 1. I made this "MOD" with Orpheus because I really love Orpheus compared to other programs that did not convince me. Although I know their philosophy behind the tokens they have, I created this only for personal use and without any bad intention.
+ 
+ 2. I made this fork for my personal use in just two days, without having any knowledge in programming. I apologize for the damage to the eyes of the original developers.
+ 
+ 3. It is true that I could have made minimal changes, just one or two lines, to make it work with the tokens. However, I also wanted to change the interface a bit to show some useful information when the module was executed. I did not have a complete knowledge of how Orpheus worked at that time (although I learned it later), and I did not make new commits in the fork to change it.
+ 
+ 4. I copied that part of the Orpheus code in the module because I wanted it to detect the changes in the configuration file and update the hashes, comparing them as a verification measure every time the module was executed. In my opinion, this is something that I could have improved significantly.
+ 
+ 5. I tried to do it with the original flow but I had some difficulties with the original flow that I did not know how to solve at that time.
+ 
+ 6. I have to clarify this module did not damage the normal functioning of Orpheus or affect other modules no matter how badly it was written.
+ 
+ 7. It is true, I am a FAN of that artist and I use many emojis.
+ 
+ 8. I appreciate the constructive comments, as well as those that were not so much.
+
+goodbye😊👍
+
+
